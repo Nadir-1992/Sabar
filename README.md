@@ -1,2 +1,3 @@
 # Sabar
-This is first repository
+This is first repository.
+First Commit.
